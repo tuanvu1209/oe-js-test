@@ -24,3 +24,5 @@ npm run dev
 ```
 
 This will start the project at `http://localhost:5173/` (or a different port if configured).
+
+<img width="1438" alt="image" src="https://github.com/user-attachments/assets/4ada3f06-85c9-478b-b9b4-5107e50a0031">
